@@ -1,4 +1,4 @@
-# Claude-Based Code Inspector – Donzo Edition
+# Claude-Based Code Inspector – donzo suite
 
 
 A Python CLI tool that analyzes your codebase and uses Claude AI to provide architectural insights — part of the Donzo automation suite. The tool provides a comprehensive analysis of your codebase, identifying architectural patterns, potential issues, and suggesting improvements.
